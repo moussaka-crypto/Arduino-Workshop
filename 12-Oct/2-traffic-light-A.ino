@@ -20,7 +20,7 @@ void loop() {
     digitalWrite(traffic_light[1], HIGH);
     delay(1000);
     digitalWrite(traffic_light[1], LOW);
-    //delay(500);
+    delay(500);
   }
   digitalWrite(traffic_light[0],LOW);
   
@@ -33,6 +33,6 @@ void loop() {
     digitalWrite(traffic_light[1], HIGH);
     delay(1000);
     digitalWrite(traffic_light[1], LOW);
-    //delay(500);
+    delay(500);
   }
 }
