@@ -1,4 +1,3 @@
-// ADONIS
 #define RED 2
 #define YELLOW 3
 #define GREEN 4
