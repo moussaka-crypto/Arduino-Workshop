@@ -15,3 +15,8 @@
 * **OLED Output** - Display sensor data on a small OLED screen using the Adafruit SSD1306 library. <br> (Показване на данни от DHT22 сензор на малък OLED екран)
 
 * **Switching the OLED Output** - Two versions with a manual switch between temperature and humidity readings and another where the display automatically switches between the two values at regular intervals. <br> (Две версии с ръчно и автоматично превключване между стойностите на температурата и влажността)
+
+### "Oh, my Arduino! It was an unbirthday present too..."
+<img src="https://github.com/moussaka-crypto/Arduino-Workshop/assets/64573585/847868b2-07c7-402e-a3e3-56780d0f68be"
+     alt="watch"
+  width= 50%/>
